@@ -1,0 +1,8 @@
+name: ToggleFallDamage
+version: '${project.version}'
+main: com.daniel.togglefalldamage.Main
+commands:
+  togglefalldamage:
+    description: "Toggles fall damage on or off."
+    aliases:
+      - tfd

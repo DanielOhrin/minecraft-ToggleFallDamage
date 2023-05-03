@@ -1,0 +1,22 @@
+# Ignore compiled files and directories
+target/
+out/
+build/
+bin/
+ 
+# Ignore IntelliJ project files
+.idea/
+*.iml
+ 
+# Ignore Maven specific files and directories
+*.jar
+*.war
+*.ear
+.idea_modules/
+ 
+# Ignore log files
+*.log
+logs/
+ 
+# Ignore any generated files
+generated/
